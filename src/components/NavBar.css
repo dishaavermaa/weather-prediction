@@ -1,0 +1,29 @@
+/* BEGIN: Navbar styles */
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #FEE140;
+    background-image: linear-gradient(90deg, #FEE140 0%, #FA709A 99%, #ffffff 100%);
+    ;
+    padding: 10px;
+}
+
+.navbar-logo {
+    margin-right: auto;
+}
+
+.navbar-links {
+    display: flex;
+    justify-content: flex-end;
+    align-items: right;
+}
+
+.navbar-link {
+    margin-left: 10px;
+    text-decoration: none;
+    color: #c9c9c9;
+}
+
+/* END: Navbar styles */
+/*linear-gradient(to left, rgba(7,27,82,1) 0%, rgba(0,128,128,1) 100%)*/

@@ -1,0 +1,28 @@
+h1{
+  font-family: 'SEGA LOGO FONT';
+  font-weight: 200;
+  color: #0d233d;
+}
+.App {
+  text-align: center;
+}
+
+.search-container {
+  margin-bottom: 20px;
+}
+
+.weather-card {
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 20px;
+  margin-bottom: 20px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.favorite-city-card {
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 10px;
+  margin-bottom: 10px;
+  background-color: #f9f9f9;
+}
